@@ -63,6 +63,11 @@
 ### Language  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true" align="center" /></div>
 
+
+
+### Streak
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsakc-me&" alt="itsakc-me" /></div>
+
 <br/>
 
 
