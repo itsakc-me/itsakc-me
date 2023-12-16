@@ -61,7 +61,7 @@
 
 
 ### Language  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&layout=compact" align="left" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true" align="center" /></div>
 
 <br/>
 
