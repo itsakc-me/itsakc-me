@@ -21,7 +21,7 @@
 
 <br/>  
 
-<details><summary> My Skill Set </summary>
+<details><summary> Skills </summary>
 
 ### Languages  
 <div align="center">  
@@ -61,10 +61,9 @@
 
 
 ### Language  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&layout=compact" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&layout=compact" align="left" /></div>
 
 <br/>
-
 
 
 
