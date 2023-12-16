@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Aditya Kumar, a developer 👨‍💻 working remotely since 2020 🚀</div>
+## <div align="center">Hii I'm Aditya Kumar, a developer 👨‍💻 working remotely since 2020 🚀</div>
 ### <div align="center">A school student 😅</div>
   
 
