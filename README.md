@@ -63,9 +63,11 @@
 ### Language  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
-
 <br/>
+
+
+
+
 ### What Listening?
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31buw3ib2rsxjwbq4ps2v7ncs3g4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
@@ -78,4 +80,4 @@
 <br />
 
 ----
-### <div align="center">A school student 😅</div>
+# <div align="center">.</div>
