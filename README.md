@@ -3,8 +3,8 @@
 </div>  
   
 
-# <div align="center">I'm Aditya Kumar, a developer 👨‍💻 working remotely since 2020 🚀</div>
-## <div align="center">A school student 😅</div>
+## <div align="center">I'm Aditya Kumar, a developer 👨‍💻 working remotely since 2020 🚀</div>
+### <div align="center">A school student 😅</div>
   
 
 - 🔭 I’m currently working on [Layout Editor](https://github.com/itsvks19/LayoutEditor)  
