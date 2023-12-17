@@ -3,7 +3,7 @@
 </div>  
   
 <div align="center">
-  <img src="https://img.shields.io/badge/itsakc.-me-red?style=for-the-badge" alt="badge" style="width: 200px;" />
+  <img src="https://img.shields.io/badge/itsakc.-me-039AFF?style=for-the-badge" alt="badge" style="width: 200px;" />
 </div>
 
 ## <div align="center">Hii I'm Aditya, a developer 👨‍💻.</div>
@@ -139,17 +139,14 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=317bfqyxc5zh5puxvsv5b3ysfdgi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="what listening?"/>
 </div>  
 
-<br/>  
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge" alt="profile view" />
-</div>  
-
-<br />
+<br/>
 
 -----
 # <div align="center">.</div>
 # <div align="center">Designed By Me 😃</div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Aditya-Kumar-red?style=for-the-badge" alt="badge" style="width: 200px;" />
+  <img src="https://img.shields.io/badge/Aditya-Kumar-039AFF?style=for-the-badge" alt="badge" style="width: 200px;" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge" alt="profile view" style="width: 225px;" />
 </div>
