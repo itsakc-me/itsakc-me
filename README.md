@@ -3,7 +3,7 @@
 </div>  
   
 <div align="center">
-  <img src="https://img.shields.io/badge/itsakc.-me-039AFF?style=for-the-badge" alt="badge" style="width: 200px;" />
+  <img src="https://img.shields.io/badge/itsakc.-me-039AFF?style=for-the-badge" alt="badge" style="width: 40%;" />
 </div>
 
 ## <div align="center">Hii I'm Aditya, a developer 👨‍💻.</div>
@@ -146,8 +146,8 @@
 # <div align="center"><div>.</div>Designed By Me 😃</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Aditya-Kumar-039AFF?style=for-the-badge" alt="badge" style="width: 200px;" />
+  <img src="https://img.shields.io/badge/Aditya-Kumar-039AFF?style=for-the-badge" alt="badge" style="width: 40%;" />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge" alt="profile view" style="width: 225px;" />
+  <img src="https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge" alt="profile view" style="width: 50%;" />
 </div>
