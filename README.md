@@ -142,8 +142,9 @@
 <br/>
 
 -----
-# <div align="center">.</div>
-# <div align="center">Designed By Me 😃</div>
+
+# <div align="center"><div>.</div>Designed By Me 😃</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Aditya-Kumar-039AFF?style=for-the-badge" alt="badge" style="width: 200px;" />
 </div>
