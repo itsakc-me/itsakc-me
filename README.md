@@ -3,7 +3,7 @@
 </div>  
   
 <div align="center">
-  <img src="https://img.shields.io/badge/Aditya-Kumar-red?style=for-the-badge" alt="badge" style="width: 20%;" />
+  <img src="https://img.shields.io/badge/itsakc.-me-red?style=for-the-badge" alt="badge" style="width: 200px;" />
 </div>
 
 ## <div align="center">Hii I'm Aditya Kumar, a developer 👨‍💻.</div>
@@ -150,3 +150,6 @@
 -----
 # <div align="center">.</div>
 # <div align="center">Designed By Me 😃</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Aditya-Kumar-red?style=for-the-badge" alt="badge" style="width: 200px;" />
+</div>
