@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/itsakc.-me-red?style=for-the-badge" alt="badge" style="width: 200px;" />
 </div>
 
-## <div align="center">Hii I'm Aditya Kumar, a developer 👨‍💻.</div>
+## <div align="center">Hii I'm Aditya, a developer 👨‍💻.</div>
 ## <div align="center">Doing programming since 2020 ✌ and online (like at github) 2022 🚀</div>
 ### <div align="center">A school student 😅</div>
   
