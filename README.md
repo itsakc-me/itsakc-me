@@ -17,7 +17,7 @@
 - 🌱 I’m learning everything as practice makes a man perfect, that's like learning makes a programmer perfect 🥰
   
 
-- ❓ I know, iam not a master but I believe that I could help you whether it will be 1% or 100%
+- ❓ I know, iam not a master but I believe that I could help you whether it will be 1% or 100% 🤠
   
 
 - ⚡ Fun fact: I not do programming for earning money, but I do because programming is my hobbie 😎  
@@ -66,7 +66,7 @@
   <a href="https://repl.it" target="_blank">
        <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="replit" style="margin-bottom: 5px;" />
    </a>
-  <a href="https://vim.org" target="_blank">
+  <a href="https://www.vim.org" target="_blank">
        <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="vim" style="margin-bottom: 5px;" />
    </a>
   <a href="https://code.visualstudio.com" target="_blank">
