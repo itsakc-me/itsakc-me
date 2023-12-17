@@ -41,6 +41,40 @@
 </div>
 
 
+## Browsers
+<div align="center">
+   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="google chrome" />
+   <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="opera" />
+   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="brave" />
+</div>
+
+
+## Softwares
+<div align="center">
+  <a href="https://codepen.io" target="_blank">
+       <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="codepen" style="margin-bottom: 5px;" />
+   </a>
+  <a href="https://neovim.io" target="_blank">
+       <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="nvim" style="margin-bottom: 5px;" />
+   </a>
+  <a href="https://obsidian.md" target="_blank">
+       <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="obsidian" style="margin-bottom: 5px;" />
+   </a>
+  <a href="https://repl.it" target="_blank">
+       <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="replit" style="margin-bottom: 5px;" />
+   </a>
+  <a href="https://vim.org" target="_blank">
+       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="vim" style="margin-bottom: 5px;" />
+   </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" style="margin-bottom: 5px;" />
+   </a>
+   <a href="https://notepad-plus-plus.org" target="_blank">
+       <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="notepad++" style="margin-bottom: 5px;" />
+   </a>
+</div>
+
+
 ## Connect with me  
 <div align="center">
    <a href="https://github.com/itsakc-me" target="_blank">
@@ -55,8 +89,19 @@
    <a href="mailto:itsakc.me@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
    </a>
-</div>  
-  
+  <a href="https://dev.to/itsakc-me" target="_blank">
+       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin-bottom: 5px;" />
+   </a>
+  <a href="https://codepen.io/itsakc-me" target="_blank">
+       <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
+   </a>
+  <a href="https://repl.it/@itsakc-me" target="_blank">
+       <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="repl.it" style="margin-bottom: 5px;" />
+   </a>
+  <a href="https://stackoverflow.com/users/23115286/itsakc-me" target="_blank">
+       <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
+   </a>
+</div>
 
 <br/>  
 
@@ -73,7 +118,8 @@
 
 ### Language  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&theme=dark" alt="languages"/></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&theme=dark" alt="languages" />
+</div>
 
 
 
@@ -98,6 +144,6 @@
 
 <br />
 
-----
+-----
 # <div align="center">.</div>
 # <div align="center">Designed By Me 😃</div>
