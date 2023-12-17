@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="profile.png" style="width: 100%;" />
+  <img src="profile.png" alt="logo" style="width: 100%;" />
 </div>  
   
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Aditya-Kumar-red?style=for-the-badge" alt="badge" style="width: 20%;"/>
+</div>
 ## <div align="center">Hii I'm Aditya Kumar, a developer 👨‍💻.</div>
 ## <div align="center">Doing programming since 2020 ✌ and online (like at github) 2022 🚀</div>
 ### <div align="center">A school student 😅</div>
