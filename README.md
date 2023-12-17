@@ -136,7 +136,7 @@
 
 ## What Listening?
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=317bfqyxc5zh5puxvsv5b3ysfdgi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="what listening?"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=317bfqyxc5zh5puxvsv5b3ysfdgi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="what listening?"/>
 </div>  
 
 <br/>
