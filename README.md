@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.jpg" align="center" style="width: 100%; border-radius: 50%;" />
+  <img src="profile.jpg" style="width: 100%;" />
 </div>  
   
 
@@ -64,31 +64,34 @@
 
 
 ### Activity  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsakc-me&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsakc-me&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="stats" /></div>  
 
 
 
 ### Language  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&theme=dark" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&theme=dark" alt="languages"/></div>
 
 
 
 ### Streak
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsakc-me&theme=dark" alt="itsakc-me" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsakc-me&theme=dark" alt="streak" /></div>
 
 <br/>
 
 
 ## What Listening?
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31buw3ib2rsxjwbq4ps2v7ncs3g4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31buw3ib2rsxjwbq4ps2v7ncs3g4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="what listening?"/></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge" align="center" />
+<img src="https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge" alt="profile view" />
 </div>  
 
 <br />
 
 ----
 # <div align="center">.</div>
+### <div align="center">Designed By <details><summary>(think? 🤔)<summary>
+### <div align="center">Ofcourse It's me 😃</div>
+</details></div>
