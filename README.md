@@ -3,7 +3,8 @@
 </div>  
   
 
-## <div align="center">Hii I'm Aditya Kumar, a developer 👨‍💻 working remotely since 2020 🚀</div>
+## <div align="center">Hii I'm Aditya Kumar, a developer 👨‍💻.</div>
+## <div align="center">Doing programming since 2020 ✌ and online (like at github) 2022 🚀</div>
 ### <div align="center">A school student 😅</div>
   
 
@@ -42,18 +43,18 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/itsakc-me" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/itsakc-me" target="_blank">
-<img src="https://img.shields.io/badge/gitlab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/itsakc" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:itsakc.me@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-</a>
+   <a href="https://github.com/itsakc-me" target="_blank">
+       <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+   </a>
+   <a href="https://gitlab.com/itsakc-me" target="_blank">
+       <img src="https://img.shields.io/badge/gitlab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
+   </a>
+   <a href="https://t.me/itsakc" target="_blank">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+   </a>
+   <a href="mailto:itsakc.me@gmail.com" target="_blank">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+   </a>
 </div>  
   
 
@@ -64,34 +65,39 @@
 
 
 ### Activity  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsakc-me&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="stats" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsakc-me&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="stats" />
+</div>  
 
 
 
 ### Language  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&theme=dark" alt="languages"/></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakc-me&hide_border=true&theme=dark" alt="languages"/></div>
 
 
 
 ### Streak
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsakc-me&theme=dark" alt="streak" /></div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsakc-me&theme=dark" alt="streak" />
+</div>
 
 <br/>
 
 
 ## What Listening?
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31buw3ib2rsxjwbq4ps2v7ncs3g4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="what listening?"/></div>  
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31buw3ib2rsxjwbq4ps2v7ncs3g4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="what listening?"/>
+</div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge" alt="profile view" />
+  <img src="https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge" alt="profile view" />
 </div>  
 
 <br />
 
 ----
 # <div align="center">.</div>
-### <div align="center">Designed By <details><summary>(think? 🤔)<summary>
-### <div align="center">Ofcourse It's me 😃</div>
-</details></div>
+# <div align="center">Designed By Me 😃</div>
