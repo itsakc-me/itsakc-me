@@ -8,13 +8,13 @@
 ### <div align="center">A school student 😅</div>
   
 
-- 🔭 I’m currently working on [Layout Editor](https://github.com/itsvks19/LayoutEditor)  
+- 🔭 I love to work 👨‍💼 and I contribute in everything but currently iam working on 📏 [Layout Editor](https://github.com/itsvks19/LayoutEditor) a github project by [Vivek Sahani](https://github.com/itsvks19)
   
 
-- 🌱 I’m currently learning All languages  
+- 🌱 I’m learning everything as practice makes a man perfect, that's like learning makes a programmer perfect 🥰
   
 
-- ❓ Ask me about Anything  
+- ❓ I know, iam not a master but I believe that I could help you whether it will be 1% or 100%
   
 
 - ⚡ Fun fact: I not do programming for earning money, but I do because programming is my hobbie 😎  
