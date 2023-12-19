@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![BADGE](https://img.shields.io/badge/itsakc.-me-039AFF?style=for-the-badge "badge")
+![USERNAME BADGE](https://img.shields.io/badge/itsakc.-me-039AFF?style=for-the-badge "badge")
 
 ## ITS ME ADITYA 😃
 
