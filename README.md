@@ -64,7 +64,7 @@
 [![REPL.IT](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white "repl.it")](https://repl.it)
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white "vim")](https://www.vim.org)
 [![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "visual studio code")](https://code.visualstudio.com)
-[![NOTEPAD++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black "notepad++")](https://notepad-plus-plus.com)
+[![NOTEPAD++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black "notepad++")](https://notepad-plus-plus.org)
    
 </div>
 
