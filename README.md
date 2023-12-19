@@ -4,7 +4,7 @@
 
 ![USERNAME BADGE](https://img.shields.io/badge/itsakc.-me-039AFF?style=for-the-badge "badge")
 
-## ITS ME ADITYA 😃
+## **ITS ME ADITYA 😃**
 
 </div>
 
@@ -12,6 +12,7 @@
 <div>
 
 - 👦 Hii I'm Aditya a school student in 10th grade, I'm a passionate programmer I love to code. I'm programmimg programs 😅 since 2020 and at internet (like GitHub) 2022 😀.
+
 
 - 🔭 I love to work 👨‍💼 and I contribute in everything but currently iam working on 📏 [Layout Editor](https://github.com/itsvks19/LayoutEditor) a github project by [Vivek Sahani](https://github.com/itsvks19)
   
@@ -103,7 +104,7 @@
 
 <div align="center">
 
-### DEVELOPED BY ME 😃
+### **DEVELOPED BY ME 😃**
 
 ![NAME BADGE](https://img.shields.io/badge/Aditya-Kumar-039AFF?style=for-the-badge "name badge")
 ![PROFILE VIEW](https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge "profile view")
