@@ -14,16 +14,16 @@
 - 👦 Hii I'm Aditya a school student in 10th grade, I'm a passionate programmer I love to code. I'm programmimg programs 😅 since 2020 and at internet (like GitHub) 2022 😀.
 
 
-- 🔭 I love to work 👨‍💼 and I contribute in everything but currently iam working on 📏 [Layout Editor](https://github.com/itsvks19/LayoutEditor) a github project by [Vivek Sahani](https://github.com/itsvks19)
+- 🔭 I love to work 👨‍💼 and I contribute in everything but currently iam working on 📏 [Layout Editor](https://github.com/itsvks19/LayoutEditor) a github project by [Vivek Sahani](https://github.com/itsvks19) and on [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) by (I don't know 😅).
   
 
-- 🌱 I’m learning everything as practice makes a man perfect, that's like learning makes a programmer perfect 🥰
+- 🌱 I’m learning everything as practice makes a man perfect, that's like learning makes a programmer perfect 🥰.
   
 
-- ❓ I know, iam not a master but I believe that I could help you whether it will be 1% or 100% 🤠
+- ❓ I know, iam not a master but I believe that I could help you whether it will be 1% or 100% 🤠.
   
 
-- ⚡ Fun fact: I not do programming for earning money, but I do because programming is my hobbie 😎  
+- ⚡ Fun fact: I not do programming for earning money, but I do because programming is my hobbie 😎.
 
 </div>
 
