@@ -77,8 +77,8 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "gmail")](mailto:itsakc.me@gmail.com)
 [![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white "dev.to")](https://dev.to/itsakc-me)
 [![CODEPEN](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white "codepen")](https://codepen.io/itsakc-me)
-[![REPL.IT](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white "repl.it")](https://repl.it/@itsakc-me)
-[![STACKOVERFLOW](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white "stackoverflow")](https://stackoverflow.com/users/23115286/itsakc-me)
+[![REPL.IT](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white "relpit")](https://repl.it/@itsakc-me)
+[![STACKOVERFLOW](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white "stack-overflow")](https://stackoverflow.com/users/23115286/itsakc-me)
    
 </div>
 
@@ -108,5 +108,7 @@
 
 ![NAME BADGE](https://img.shields.io/badge/Aditya-Kumar-039AFF?style=for-the-badge "name badge")
 ![PROFILE VIEW](https://komarev.com/ghpvc/?username=itsakc-me&color=FF4545&style=for-the-badge "profile view")
+
+[![BUY ME A COFFEE](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee "buymeacoffee")](https://www.buymeacoffee.com/itsakc.me)
 
 </div>
