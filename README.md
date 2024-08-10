@@ -11,10 +11,10 @@
 ### Introduction
 <div>
 
-- 👦 Hii I'm Aditya a school student in 10th grade, I'm a passionate programmer I love to code. I'm programmimg programs 😅 since 2020 and at internet (like GitHub) 2022 😀.
+- 👦 Hii, I'm Aditya, a passionate programmer who loves coding 😀.
 
 
-- 🔭 I love to work 👨‍💼 and I contribute in everything but currently iam working on 📏 [Layout Editor](https://github.com/itsvks19/LayoutEditor) a github project by [Vivek Sahani](https://github.com/itsvks19).
+- 🔭 I love to work 👨‍💼 and if i can help you then i will definitely want to be one of your contributor ♥️.
   
 
 - 🌱 I’m learning everything as practice makes a man perfect, that's like learning makes a programmer perfect 🥰.
