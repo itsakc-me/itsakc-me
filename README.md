@@ -1,13 +1,3 @@
-![LOGO](logo.png "logo")
-
-<div align="center">
-
-![USERNAME BADGE](https://img.shields.io/badge/itsakc.-me-039AFF?style=for-the-badge "badge")
-
-## **ITS ME ADITYA 😃**
-
-</div>
-
 ### Introduction
 <div>
 
