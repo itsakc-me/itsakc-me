@@ -6,7 +6,7 @@
 
 *Practice makes a craftsman perfect.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-itsakc--me.github.io-0071E3?style=for-the-badge)](https://itsakc-me.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-itsakc--me.github.io-0071E3?style=for-the-badge)](https://itsakc-me.github.io/itsakc-me/)
 [![Reach Orion](https://img.shields.io/badge/Reach_Orion-reachorion.net-1D1D1F?style=for-the-badge)](https://reachorion.net)
 
 </div>
@@ -50,7 +50,7 @@ I care about code that is clear, fast and easy for the next person to change. I 
 
 ## Find me
 
-- **Portfolio:** [itsakc-me.github.io/portfolio](https://itsakc-me.github.io/portfolio/)
+- **Portfolio:** [itsakc-me.github.io/itsakc-me](https://itsakc-me.github.io/itsakc-me/)
 - **Studio:** [reachorion.net](https://reachorion.net) · [GitHub organization](https://github.com/Reach-Orion)
 - **Elsewhere:** [GitLab](https://gitlab.com/itsakc-me) · [Dev.to](https://dev.to/itsakc-me) · [Stack Overflow](https://stackoverflow.com/users/23115286/itsakc-me)
 - **Email:** [itsakc.me@gmail.com](mailto:itsakc.me@gmail.com)
