@@ -17,19 +17,19 @@
         <meta property="og:site_name" content="itsakc-me" />
         <meta property="og:title" content="Aditya Kumar | itsakc-me — Full Stack, Headless CMS & SaaS Developer" />
         <meta property="og:description" content="Full stack web development portfolio focused on custom websites, headless CMS platforms, and SaaS MVPs." />
-        <meta property="og:image" content="./assets/img/banner.png" />
-        <meta property="og:image:secure_url" content="./assets/img/banner.png" />
+        <meta property="og:image" content="./assets/img/banner.svg" />
+        <meta property="og:image:secure_url" content="./assets/img/banner.svg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="Aditya Kumar portfolio showcase" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Aditya Kumar | itsakc-me — Full Stack, Headless CMS & SaaS Developer" />
         <meta name="twitter:description" content="Full stack web development portfolio focused on custom websites, headless CMS platforms, and SaaS MVPs." />
-        <meta name="twitter:image" content="./assets/img/banner.png" />
+        <meta name="twitter:image" content="./assets/img/banner.svg" />
         <meta name="twitter:image:alt" content="Aditya Kumar portfolio showcase" />
         <meta name="theme-color" content="#1D1D1F" />
         <meta name="color-scheme" content="dark light" />
-        <link rel="icon" type="image/png" href="./assets/img/logo.png" />
+        <link rel="icon" type="image/png" href="./assets/img/logo.svg" />
 
         <!-- CSS -->
         <link rel="stylesheet" href="./assets/css/style.css" />
@@ -52,7 +52,7 @@
         <!-- Navigation -->
         <nav>
             <a href="./index.html" class="logo">
-                <img src="./assets/img/logo.png" alt="itsakc-me logo" />
+                <img src="./assets/img/logo.svg" alt="itsakc-me logo" />
                 <span>itsakc-me</span>
             </a>
             <ul class="nav-links">
@@ -66,8 +66,8 @@
         <!-- Hero Section -->
         <section class="hero container">
             <img
-                src="./assets/img/banner.png"
-                alt="Hero Background"
+                src="./assets/img/banner.svg"
+                alt=""
                 class="hero-banner"
             />
             <div class="hero-content">
@@ -80,7 +80,7 @@
                 <h3 class="hero-subtitle fade-up">
                     itsakc-me · Professional Full Stack Web Developer
                 </h3>
-                <p class="fade-up">
+                <div class="hero-description fade-up">
                     I build clear, high-performance websites, headless CMS
                     platforms and SaaS MVPs. My work combines modern frontend
                     architecture, dependable backend systems and practical SEO
@@ -89,7 +89,7 @@
                     <div class="hero-slogan fade-up">
                         <em>Practice makes a craftsman Perfect</em> — that's the whole bet.
                     </div>
-                </p>
+                </div>
                 <div class="fade-up hero-buttons">
                     <a href="./projects.html" class="btn btn-primary"
                         >What I've been building</a
@@ -128,7 +128,7 @@
                 <div>
                     <h2>The <span class="accent-text">Journey</span></h2>
                     <p>
-                        I live in India, and I've spent the past 4+ years turning
+                        I live in India, and I've spent the past 6+ years turning
                         passion into a thriving profession. Operating at a
                         senior level in Full Stack Web Development, I specialize
                         in architecting scalable and business-ready solutions.
@@ -153,7 +153,7 @@
                 <div style="text-align: center">
                     <!-- Character Image -->
                     <img
-                        src="./assets/img/logo.png"
+                        src="./assets/img/logo.svg"
                         alt="Chibi character"
                         style="
                             width: 80%;
@@ -167,15 +167,20 @@
         </section>
 
         <!-- Reach Orion Section -->
-        <section class="container fade-up" id="reach-orion" style="margin-top: 3rem;">
-            <div class="card" style="background: var(--charcoal-umber); color: #ffffff; padding: var(--space-xl); border: none; border-radius: 20px;">
-                <h2 style="color: var(--soft-ochre); margin-bottom: 5px;">Building <a href="https://reachorion.net/" target="_blank" class="accent-text" style="font-size: 2rem; color: var(--powdered-cloud); text-decoration: underline;">Reach Orion</a></h2>
-                <p style="font-size: 1.1rem; margin-bottom: var(--space-lg); font-weight: 500;">
-                    Every build here is made to launch fast, read clearly and grow cleanly.<br>
-                    We're Reach Orion, an IT and web studio for custom CMS platforms, websites and SaaS MVPs.
-                </p>
-                <div style="margin: var(--space-md) 0;">
-                    <h4 style="color: var(--powdered-cloud); margin-bottom: 15px; font-family: var(--font-body),serif; font-weight: 700;">Your Build Stack:</h4>
+        <section class="container fade-up" id="reach-orion">
+            <div class="reach-orion-card">
+                <div class="reach-orion-heading">
+                    <p class="section-index">01 / BUILD PARTNER</p>
+                    <h2>Building <a href="https://reachorion.net/" target="_blank">Reach Orion</a></h2>
+                    <p>
+                        Every build is made to launch fast, read clearly and grow cleanly.
+                        Reach Orion is an IT and web studio for custom CMS platforms,
+                        websites and SaaS MVPs.
+                    </p>
+                    <a href="https://reachorion.net" target="_blank" style="font-size: 5rem;">@</a>
+                </div>
+                <div class="reach-orion-stack">
+                    <h4>Your Build Stack</h4>
                     <ul style="list-style: none; line-height: 2; font-weight: 500;">
                         <li>▸ <strong style="color: var(--soft-ochre);">Custom Websites</strong> — fast, clear pages that turn visitors into enquiries</li>
                         <li>▸ <strong style="color: var(--soft-ochre);">CMS Platforms</strong> — edit and publish without calling a developer</li>
@@ -184,12 +189,12 @@
                         <li>▸ <strong style="color: var(--soft-ochre);">Launch & Handover</strong> — your domain, hosting and code, in your name</li>
                     </ul>
                 </div>
-                <div style="margin-top: var(--space-lg);">
-                    <h4 style="color: var(--powdered-cloud); margin-bottom: 10px; font-family: var(--font-body), serif; font-weight: 700;">The Reach Orion Advantage:</h4>
-                    <p style="font-weight: 500;">
-                        One studio, a written scope, staging demos along the way, and no surprises.<br>
-                        Ready to build something? <a href="./contact.html" style="color: var(--powdered-cloud); text-decoration: underline; font-weight: 700;">Let's talk.</a>
+                <div class="reach-orion-advantage">
+                    <h4>The Advantage</h4>
+                    <p>
+                        One studio, a written scope, staging demos along the way, and no surprises.
                     </p>
+                    <a href="https://reachorion.net/#inquiry" target="_blank">Start a project <span aria-hidden="true">↗</span></a>
                 </div>
             </div>
         </section>
@@ -309,7 +314,7 @@
                         <p>
                             A heartfelt thank you for providing the Student
                             Learning Programme. The benefits and tools offered
-                            have been instrumental in my high school education
+                            have been instrumental in my education
                             and my journey to mastering code. Your products are
                             the canvas to my logic.
                         </p>
@@ -351,21 +356,19 @@
         </footer>
 
         <script>
-            // Initialize Splitting for text effects
-            Splitting();
-
-            // Add specific GSAP animation for hero text after Splitting
             document.addEventListener("DOMContentLoaded", () => {
-                const gsap = window["gsap"];
-
-                gsap.from(".hero h1 .char", {
-                    y: 100,
-                    opacity: 0,
-                    stagger: 0.05,
-                    duration: 1,
-                    ease: "back.out(1.7)",
-                    delay: 0.2,
-                });
+                if (window.Splitting) {
+                    Splitting();
+                }
+                if (window.gsap) {
+                    gsap.from(".hero h1", {
+                        y: 30,
+                        opacity: 0,
+                        duration: 0.9,
+                        ease: "power3.out",
+                        delay: 0.12,
+                    });
+                }
             });
         </script>
         <script src="./assets/js/main.js"></script>

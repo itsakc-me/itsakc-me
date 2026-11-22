@@ -8,7 +8,7 @@
             name="description"
             content="Projects by Aditya Kumar (itsakc-me), including web, headless CMS and SaaS builds."
         />
-        <link rel="icon" type="image/png" href="./assets/img/logo.png" />
+        <link rel="icon" type="image/png" href="./assets/img/logo.svg" />
 
         <link rel="stylesheet" href="./assets/css/style.css" />
 
@@ -47,7 +47,7 @@
                 align-items: center;
                 justify-content: center;
                 color: var(--soft-ochre);
-                font-family: var(--font-heading);
+                font-family: var(--font-heading), system-ui;
                 font-size: 1.5rem;
                 position: relative;
             }
@@ -99,10 +99,10 @@
             }
         </style>
     </head>
-    <body>
+    <body class="projects-page">
         <nav>
             <a href="./index.html" class="logo">
-                <img src="./assets/img/logo.png" alt="itsakc-me logo" />
+                <img src="./assets/img/logo.svg" alt="itsakc-me logo" />
                 <span>itsakc-me</span>
             </a>
             <ul class="nav-links">
@@ -113,9 +113,9 @@
             </ul>
         </nav>
 
-        <section class="container" style="padding: 150px 0">
+        <section class="container projects-section">
             <h1 class="fade-up">My <span class="accent-text">Craft</span></h1>
-            <p class="fade-up" style="max-width: 600px">
+            <p class="fade-up projects-intro">
                 A curated selection of web, CMS and SaaS work, built with
                 practical scope, clear architecture and maintainable code.
             </p>
