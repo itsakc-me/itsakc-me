@@ -2,7 +2,7 @@
 
 # Hi, I'm Aditya Kumar
 
-**Full stack web developer · Undergraduate · Building [Reach Orion](https://reachorion.net)**
+**Full stack web developer · Senior · Building [Reach Orion](https://reachorion.net)**
 
 *Practice makes a craftsman perfect.*
 
@@ -15,7 +15,7 @@
 
 ## About me
 
-I started coding in school and never stopped. Today I am an undergraduate student who builds full stack web products, from fast marketing sites to content-managed platforms and early SaaS products.
+I started coding in school and never stopped. Today after 6+ years of experience, I am a Senior developer who builds full stack web products, from fast marketing sites to content-managed platforms and early SaaS products.
 
 I care about code that is clear, fast and easy for the next person to change. I like to finish what I start and to leave a project better documented than I found it.
 
