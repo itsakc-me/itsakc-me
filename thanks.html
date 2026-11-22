@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Thank You | itsakc-me</title>
+        <meta
+            name="description"
+            content="Thank you for reaching out to Aditya Kumar (itsakc-me)."
+        />
+        <link rel="icon" type="image/png" href="./assets/img/logo.png" />
+        <link rel="stylesheet" href="./assets/css/style.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+        <style>
+            .thanks-section {
+                min-height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+                position: relative;
+            }
+
+            .thanks-card {
+                background: var(--powdered-cloud);
+                border: 1px solid var(--muted-amber);
+                border-radius: 20px;
+                padding: 3rem 2.5rem;
+                max-width: 600px;
+                width: 90%;
+                box-shadow: 0 20px 60px rgba(93, 84, 76, 0.15);
+                position: relative;
+                overflow: hidden;
+            }
+
+            .thanks-card::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                height: 5px;
+                background: linear-gradient(
+                    90deg,
+                    var(--blush-canyon),
+                    var(--muted-amber),
+                    var(--blush-canyon)
+                );
+            }
+
+            .thanks-icon {
+                width: 90px;
+                height: 90px;
+                border-radius: 50%;
+                background: linear-gradient(
+                    135deg,
+                    var(--blush-canyon),
+                    var(--muted-amber)
+                );
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin: 0 auto 1.5rem auto;
+                font-size: 2.5rem;
+            }
+
+            .thanks-card h1 {
+                font-size: 2.5rem;
+                color: var(--charcoal-umber);
+                margin-bottom: 0.5rem;
+            }
+
+            .thanks-card .subtitle {
+                font-family: var(--font-accent);
+                font-style: italic;
+                font-size: 1.2rem;
+                font-weight: bold;
+                color: var(--muted-amber);
+                margin-bottom: 1.5rem;
+            }
+
+            .thanks-card p {
+                color: var(--charcoal-umber);
+                font-size: 1.05rem;
+                line-height: 1.8;
+                margin-bottom: 1.5rem;
+            }
+
+            .thanks-actions {
+                display: flex;
+                gap: 15px;
+                justify-content: center;
+                flex-wrap: wrap;
+                margin-top: 1rem;
+            }
+
+            .confetti {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                pointer-events: none;
+                z-index: 999;
+                overflow: hidden;
+            }
+
+            .confetti-piece {
+                position: absolute;
+                width: 10px;
+                height: 10px;
+                border-radius: 2px;
+                top: -20px;
+                opacity: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Navigation -->
+        <nav>
+            <a href="./index.html" class="logo">
+                <img src="./assets/img/logo.png" alt="itsakc-me logo" />
+                <span>itsakc-me</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./projects.html">Projects</a></li>
+                <li><a href="./testimonials.html">Testimonials</a></li>
+                <li><a href="./contact.html">Contact Me</a></li>
+            </ul>
+        </nav>
+
+        <!-- Confetti Container -->
+        <div class="confetti" id="confetti"></div>
+
+        <!-- Thank You Section -->
+        <section class="thanks-section">
+            <div class="thanks-card">
+                <div class="thanks-icon">✉️</div>
+                <h1>Thank <span class="accent-text">You!</span></h1>
+                <p class="subtitle">
+                    Your message has been delivered successfully.
+                </p>
+                <p>
+                    I appreciate you taking the time to reach out. I'll review
+                    your project details and get back to you as soon as possible —
+                    usually within 24 hours.<br /><br />
+                    In the meantime, you can explore the work and development
+                    approach behind Reach Orion.
+                </p>
+                <div class="thanks-actions">
+                    <a href="./projects.html" class="btn btn-primary"
+                        >Explore My Projects</a
+                    >
+                    <a href="./index.html" class="btn btn-secondary"
+                        >Back to Home</a
+                    >
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <div class="container">
+                <p>
+                    &copy; 2026 Aditya Kumar (itsakc-me). Handcrafted with logic
+                    and aesthetics.
+                </p>
+            </div>
+        </footer>
+
+        <script>
+            // Confetti animation on page load
+            document.addEventListener("DOMContentLoaded", () => {
+                const container = document.getElementById("confetti");
+                const colors = [
+                    "#D9A07D",
+                    "#B68D72",
+                    "#F6DDC4",
+                    "#F5EAD4",
+                    "#929188",
+                    "#5D544C",
+                ];
+                const pieces = 60;
+
+                for (let i = 0; i < pieces; i++) {
+                    const piece = document.createElement("div");
+                    piece.classList.add("confetti-piece");
+                    piece.style.left = Math.random() * 100 + "%";
+                    piece.style.background =
+                        colors[Math.floor(Math.random() * colors.length)];
+                    piece.style.width = Math.random() * 8 + 5 + "px";
+                    piece.style.height = Math.random() * 8 + 5 + "px";
+                    piece.style.borderRadius =
+                        Math.random() > 0.5 ? "50%" : "2px";
+                    container.appendChild(piece);
+
+                    gsap.to(piece, {
+                        y: window.innerHeight + 50,
+                        x: (Math.random() - 0.5) * 300,
+                        rotation: Math.random() * 720,
+                        opacity: 1,
+                        duration: 2 + Math.random() * 2,
+                        delay: Math.random() * 1.5,
+                        ease: "power1.out",
+                        onComplete: () => {
+                            gsap.to(piece, { opacity: 0, duration: 0.5 });
+                        },
+                    });
+                }
+
+                // Animate the card entrance
+                gsap.from(".thanks-card", {
+                    y: 40,
+                    opacity: 0,
+                    duration: 1,
+                    ease: "power3.out",
+                    delay: 0.3,
+                });
+            });
+        </script>
+    </body>
+</html>

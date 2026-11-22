@@ -1,0 +1,29 @@
+# itsakc-me Portfolio Robots.txt
+
+User-agent: *
+Allow: /
+
+# Dedicated Directives for Major Search Engine Bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Directives for Modern AI & Answer Engine Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+
